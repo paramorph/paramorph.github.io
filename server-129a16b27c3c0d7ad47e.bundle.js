@@ -366,7 +366,7 @@ paramorph.addPost(
     "default",
     "./_pages/contact.markdown",
     true,
-    false,
+    true,
     5,
     ["Blog"],
     ["paramorph","contact","info"],
@@ -33715,4 +33715,4 @@ module.exports = __webpack_require__(/*! paramorph/entry/server */"./node_module
 
 /******/ });
 });
-//# sourceMappingURL=server-54b52f086d3fb08db101.bundle.js.map
+//# sourceMappingURL=server-129a16b27c3c0d7ad47e.bundle.js.map
